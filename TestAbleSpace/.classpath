@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Eclipse/selenium-server-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/bcpkix-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/bcprov-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/bcutil-jdk18on-1.76.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/commons-compress-1.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/docker-java-3.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/docker-java-api-3.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/docker-java-core-3.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/docker-java-transport-3.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/docker-java-transport-httpclient5-3.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/slf4j-api-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Webdrivermanager/webdrivermanager-5.7.0.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
